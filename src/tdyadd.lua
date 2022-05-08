@@ -1,0 +1,9 @@
+--- TODO:
+--read args
+------ 1st date
+------ 2nd time
+------ 3rd msg
+------ 4th priority
+-- insert into .cache/today/schedule.csv
+------ insertion sort to get place into the right position based on date and time
+------ delete everything outdated
